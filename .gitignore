@@ -2,3 +2,4 @@
 *.swo
 *.service
 .gdbinit
+.flash.jlink
